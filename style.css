@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    padding: 0rem 2rem;
+}
+
+#nav-button a{
+    text-decoration: none;
+}
+
+.navbar-nav a{
+    color: back;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+#nav{
+    background-color: rgb(45, 146, 180);
+}
+
+#nav-button{
+    padding: .5rem;
+    border: none;
+    font-size: 16px;
+    border-radius: 7px;
+    font-weight: bold;
+    color: #4CAF50;
+    margin-left: 6px;
+}
+
+.first-section{
+    padding: 4rem 1rem 0rem;
+    
+}
+
+
+
+.first-section .Event{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    color: #034904;
+}
+
+.description{
+    font-size: 20px;
+}
+
+.accordion-body-item{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    
+    justify-content: space-between;
+    
+}
+
+.accordion-item{
+    font-size: 1em;
+    color: black;
+}
+
+.accordion-button{
+    background-color: ;
+    padding: 1.5rem;
+    font-size: 0.7em;
+    height: auto;
+    color: #034904;
+    border: none;
+}
+
+
+
+.accordion-body a{
+    color: red;
+    text-decoration: none;
+    font-size: 1rem;
+    
+}
+
+.accordion-body p{
+    font-size: 1rem;
+    
+}
+
